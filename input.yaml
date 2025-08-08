@@ -1,0 +1,7 @@
+brand_website: 'https://www.myprotein.com/'
+brand_competition_website: 'https://www.optimumnutrition.com/en-us'
+service_locations: ['United States']
+ad_budgets:
+  - shopping_ads:
+  - performance_max_ads:
+  - search_ads:
